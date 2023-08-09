@@ -1,0 +1,6 @@
+<!--
+ - Created by abaddon on 11/12/22.
+ -->
+
+<apex:component id="stylingComponent">
+</apex:component>

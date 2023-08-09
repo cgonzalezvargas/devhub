@@ -1,0 +1,13 @@
+<!--
+ - Created by abaddon on 11/11/22.
+ -->
+
+<apex:page id="testDisplay">
+    <apex:outputPanel rendered="{! $User.UIThemeDisplayed == 'Theme3' }">
+        <apex:outputText value="This is Salesforce Classic."/>
+        <apex:outputText value="These are multiple components wrapped by an outputPanel."/>
+    </apex:outputPanel>
+    <apex:outputPanel rendered="{! $User.UIThemeDisplayed == 'Theme4d' }">
+        <apex:outputText value="Everything is simpler in Lightning Experience."/>
+    </apex:outputPanel>
+</apex:page>

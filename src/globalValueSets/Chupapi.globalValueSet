@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Chupapi 1</fullName>
+        <default>false</default>
+        <label>Chupapi 1</label>
+    </customValue>
+    <customValue>
+        <fullName>Chupapi 2</fullName>
+        <default>false</default>
+        <label>Chupapi 2</label>
+    </customValue>
+    <customValue>
+        <fullName>Chupapi 3</fullName>
+        <default>false</default>
+        <label>Chupapi 3</label>
+    </customValue>
+    <customValue>
+        <fullName>Chupapi 4</fullName>
+        <default>false</default>
+        <label>Chupapi 4</label>
+    </customValue>
+    <masterLabel>Chupapi</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
